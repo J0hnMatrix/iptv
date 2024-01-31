@@ -1,0 +1,546 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TF1"tvg-id="TF1"tvg-logo="https://i.imgur.com/4JynpVF.png"group-title="France",TF1
+plugin://plugin.video.vavooto/?name=TF1
+#EXTINF:-1 tvg-name="France 2"tvg-id="France 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png"group-title="France",FRANCE 2
+plugin://plugin.video.vavooto/?name=FRANCE 2
+#EXTINF:-1 tvg-name="FRANCE 3"tvg-id="FRANCE 3"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png"group-title="France",FRANCE 3
+plugin://plugin.video.vavooto/?name=FRANCE 3
+#EXTINF:-1 tvg-name="CANAL+"tvg-id="CANAL+"tvg-logo="https://logos-marques.com/wp-content/uploads/2020/04/Canal-Logo-1995-768x432.png"group-title="France",CANAL+
+plugin://plugin.video.vavooto/?name=CANAL%2B
+#EXTINF:-1 tvg-name="FRANCE 5"tvg-id="FRANCE 5"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png"group-title="France",FRANCE 5
+plugin://plugin.video.vavooto/?name=FRANCE 5
+#EXTINF:-1 tvg-name="M6"tvg-id="M6"tvg-logo="https://i.imgur.com/7GVp3fW.png"group-title="France",M6
+plugin://plugin.video.vavooto/?name=M6
+#EXTINF:-1 tvg-name="ARTE"tvg-id="ARTE"tvg-logo="https://i.imgur.com/ecXMjNl.png"group-title="France",ARTE
+plugin://plugin.video.vavooto/?name=ARTE
+#EXTINF:-1 tvg-name="C8"tvg-id="C8"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/C8_t%C3%A9l%C3%A9.png"group-title="France",C8
+plugin://plugin.video.vavooto/?name=C8
+#EXTINF:-1 tvg-name="W9"tvg-id="W9"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/W9-Logo.svg/2560px-W9-Logo.svg.png"group-title="France",W9
+plugin://plugin.video.vavooto/?name=W9
+#EXTINF:-1 tvg-name="TMC"tvg-id="TMC"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/1280px-TMC_logo_2016.svg.png"group-title="France",TMC
+plugin://plugin.video.vavooto/?name=TMC
+#EXTINF:-1 tvg-name="TFX"tvg-id="TFX"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/1200px-TFX_logo_2018.svg.png"group-title="France",TFX
+plugin://plugin.video.vavooto/?name=TFX
+#EXTINF:-1 tvg-name="NRJ12"tvg-id="NRJ12"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/44/NRJ12-Logo.png"group-title="France",NRJ12
+plugin://plugin.video.vavooto/?name=NRJ+12
+#EXTINF:-1 tvg-name="LCP ASSEMBLEE NATIONALE"tvg-id="LCP ASSEMBLEE NATIONALE"tvg-logo="https://i.imgur.com/k7UImOJ.png"group-title="France",LCP ASSEMBLEE NATIONALE
+plugin://plugin.video.vavooto/?name=LCP ASSEMBLEE NATIONALE
+#EXTINF:-1 tvg-name="FRANCE 4"tvg-id="FRANCE 4"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png"group-title="France",FRANCE 4
+plugin://plugin.video.vavooto/?name=FRANCE 4
+#EXTINF:-1 tvg-name="BFMTV"tvg-id="BFMTV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/BFM_TV_logo.png"group-title="France",BFM TV
+plugin://plugin.video.vavooto/?name=BFM+TV
+#EXTINF:-1 tvg-name="CNEWS"tvg-id="C NEWS"tvg-logo="https://i.imgur.com/sSNhk2g.png"group-title="France",CNEWS
+plugin://plugin.video.vavooto/?name=C NEWS
+#EXTINF:-1 tvg-name="CSTAR"tvg-id="C STAR"tvg-logo="https://i.imgur.com/w4kAX1V.png"group-title="France",CSTAR
+plugin://plugin.video.vavooto/?name=C STAR
+#EXTINF:-1 tvg-name="GULLI"tvg-id="GULLI"tvg-logo="https://i.imgur.com/kqYssbW.png"group-title="France",GULLI
+plugin://plugin.video.vavooto/?name=GULLI
+#EXTINF:-1 tvg-name="TF1 SERIES & FILM"tvg-id="TF1SeriesFilms.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/TF1_S%C3%A9ries_Films_logo_2020.svg/2560px-TF1_S%C3%A9ries_Films_logo_2020.svg.png"group-title="France",TF1 Series Films
+plugin://plugin.video.vavooto/?name=TF+1+SERIES+FILMS
+#EXTINF:-1 tvg-name="LEQUIPE"tvg-id="LEquipe21.fr"tvg-logo="https://i.imgur.com/t35zhM9.png"group-title="France",L'EQUIPE
+plugin://plugin.video.vavooto/?name=L EQUIPE
+#EXTINF:-1 tvg-name="6TER"tvg-id="6TER"tvg-logo="https://i.imgur.com/2nd5Cox.png"group-title="France",6TER
+plugin://plugin.video.vavooto/?name=6TER
+#EXTINF:-1 tvg-name="RMC STORY"tvg-id="Numero23.fr"tvg-logo="https://i.imgur.com/h53nsyJ.png"group-title="France",RMC STORY
+plugin://plugin.video.vavooto/?name=RMC STORY
+#EXTINF:-1 tvg-name="RMC DECOUVERTE"tvg-id="RMCDecouverte.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/langfr-350px-RMC_D%C3%A9couverte_logo_2017.svg.png"group-title="France",RMC DECOUVERTE
+plugin://plugin.video.vavooto/?name=RMC DECOUVERTE
+#EXTINF:-1 tvg-name="CHERIE 25"tvg-id="Cherie25.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/512px-Logo_Ch%C3%A9rie_25.svg.png"group-title="France",CHERIE 25
+plugin://plugin.video.vavooto/?name=CHERIE 25
+
+#EXTINF:-1 tvg-name="RTS 1" group-title="France" tvg-id="RTSUn.ch" tvg-logo="https://i.imgur.com/OP5lHv9.png",RTS 1
+plugin://plugin.video.vavooto/?name=RTS 1
+#EXTINF:-1 tvg-name="RTS 2" group-title="France" tvg-id="RTSDeux.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/512px-RTS_2_logo_2019.svg.png",RTS 2
+plugin://plugin.video.vavooto/?name=RTS 2
+
+#EXTINF:-1 tvg-name="DIEU TV" group-title="France" tvg-logo="https://i.imgur.com/uKaToAi.png",DIEU TV
+plugin://plugin.video.vavooto/?name=DIEU TV
+
+#EXTINF:-1 tvg-name="JUSTE POUR RIRE" group-title="France" tvg-id="JustePourRire.fr" tvg-logo="https://i.imgur.com/VbqcKn3.png",JUSTE POUR RIRE
+plugin://plugin.video.vavooto/?name=JUSTE POUR RIRE
+
+#EXTINF:-1 tvg-name="LA CHAINE METEO" group-title="France" tvg-id="LaChaineMeteo.fr" tvg-logo="https://i.imgur.com/dFHAmkT.png",LA CHAINE METEO
+plugin://plugin.video.vavooto/?name=LA CHAINE METEO
+
+#EXTINF:-1 tvg-name="MOTORVISION TV" group-title="France" tvg-id="MotorVisionTV.fr" tvg-logo="https://i.imgur.com/v4kj8pI.png",MOTORVISION TV
+plugin://plugin.video.vavooto/?name=MOTORVISION TV
+
+#EXTINF:-1 tvg-name="LCI"tvg-id="LCI.fr"tvg-logo="https://i.imgur.com/DED8EXs.png"group-title="France",LCI
+plugin://plugin.video.vavooto/?name=LCI
+#EXTINF:-1 tvg-name="FRANCEINFO"tvg-id="franceinfo.fr"tvg-logo="https://i.imgur.com/eITXz6A.png"group-title="France",FRANCEINFO
+plugin://plugin.video.vavooto/?name=FRANCEINFO
+#EXTINF:-1 tvg-name="BFM BUSINESS"tvg-id="BFMBusiness.fr"tvg-logo="https://i.imgur.com/psqIHn4.png"group-title="France",BFM BUSINESS
+plugin://plugin.video.vavooto/?name=BFM BUSINESS
+
+#EXTINF:-1 tvg-name="BFM PARIS"tvg-id="BFMParis.fr"tvg-logo="https://i.imgur.com/WJuJkag.png"group-title="France",BFM PARIS
+plugin://plugin.video.vavooto/?name=BFM PARIS
+
+#EXTINF:-1 tvg-name="BFM LILLE TV" group-title="France" tvg-logo="https://i.imgur.com/HE5xP0r.png",BFM LILLE TV
+plugin://plugin.video.vavooto/?name=BFM LILLE TV
+#EXTINF:-1 tvg-name="BFM LYON" group-title="France" tvg-logo="https://i.imgur.com/0uiiZRo.png",BFM LYON
+plugin://plugin.video.vavooto/?name=BFM LYON
+
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL"tvg-id="DiscoveryChannel.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png"group-title="France",DISCOVERY CHANNEL
+plugin://plugin.video.vavooto/?name=DISCOVERY CHANNEL
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE"tvg-id="DiscoveryScience.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png"group-title="France",DISCOVERY SCIENCE
+plugin://plugin.video.vavooto/?name=DISCOVERY SCIENCE
+#EXTINF:-1 tvg-name="DISCOVERY INVESTIGATION"tvg-id="DiscoveryInvestigation.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png"group-title="France",DISCOVERY INVESTIGATION
+plugin://plugin.video.vavooto/?name=DISCOVERY INVESTIGATION
+#EXTINF:-1 tvg-name="DISCOVERY SCI-FI"tvg-id="DISCOVERY SCI-FI"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png"group-title="France",DISCOVERY SCI-FI
+plugin://plugin.video.vavooto/?name=DISCOVERY SCI-FI
+#EXTINF:-1 tvg-name="DISCOVERY FAMILY"tvg-id="DISCOVERY FAMILY"tvg-logo="https://i.imgur.com/pdNGDJ8.png"group-title="France",DISCOVERY FAMILY
+plugin://plugin.video.vavooto/?name=DISCOVERY FAMILY
+#EXTINF:-1 tvg-name="DISCOVERY WORLD"tvg-id="DISCOVERY WORLD"tvg-logo="https://i.imgur.com/yNFmUkE.png"group-title="France",DISCOVERY WORLD
+plugin://plugin.video.vavooto/?name=DISCOVERY WORLD
+#EXTINF:-1 tvg-name="I24 NEWS"tvg-id="I24news.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png"group-title="France",I24 NEWS
+plugin://plugin.video.vavooto/?name=I24 NEWS
+#EXTINF:-1 tvg-name="FRANCE 24"tvg-id="France24.fr"tvg-logo="https://i.imgur.com/u8N6uoj.png"group-title="France",FRANCE 24
+plugin://plugin.video.vavooto/?name=FRANCE 24
+#EXTINF:-1 tvg-name="EURONEWS"tvg-id="Euronews.fr"tvg-logo="https://i.imgur.com/8t9mdg9.png"group-title="France",EURONEWS
+plugin://plugin.video.vavooto/?name=EURONEWS
+#EXTINF:-1 tvg-name="13 EME RUE"tvg-id="13eRue.fr"tvg-logo="https://i.imgur.com/k0DCMTL.png"group-title="France",13 EME RUE
+plugin://plugin.video.vavooto/?name=13 EME RUE
+#EXTINF:-1 tvg-name="SYFY"tvg-id="Syfy.fr"tvg-logo="https://i.imgur.com/4fMWhUE.png"group-title="France",SYFY
+plugin://plugin.video.vavooto/?name=SYFY
+#EXTINF:-1 tvg-name="E! ENTERTAINMENT"tvg-id="EEntertainment.fr"tvg-logo="https://i.imgur.com/TWFDkap.png"group-title="France",E! ENTERTAINMENT
+plugin://plugin.video.vavooto/?name=E! ENTERTAINMENT
+#EXTINF:-1 tvg-name="MTV"tvg-id="MTV.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png"group-title="France",MTV
+plugin://plugin.video.vavooto/?name=MTV
+#EXTINF:-1 tvg-name="MCM"tvg-id="MCM.fr"tvg-logo="https://i.imgur.com/F5WNCp0.png"group-title="France",MCM
+plugin://plugin.video.vavooto/?name=MCM
+#EXTINF:-1 tvg-name="MCM POP"tvg-id="MCM POP"tvg-logo="https://i.imgur.com/j31lBL7.png"group-title="France",MCM POP
+plugin://plugin.video.vavooto/?name=MCM POP
+#EXTINF:-1 tvg-name="MCM TOP"tvg-id="MCMTop.fr"tvg-logo="https://i.imgur.com/EVtWQLd.png"group-title="France",MCM TOP
+plugin://plugin.video.vavooto/?name=MCM TOP
+#EXTINF:-1 tvg-name="AB1"tvg-id="AB1.fr"tvg-logo="https://i.imgur.com/9C7UsOe.png"group-title="France",AB1
+plugin://plugin.video.vavooto/?name=AB1
+#EXTINF:-1 tvg-name="AB3"tvg-id="AB3.fr"tvg-logo="https://i.imgur.com/XrguYcP.png"group-title="France",AB3
+plugin://plugin.video.vavooto/?name=AB3
+#EXTINF:-1 tvg-name="serieclub.fr"tvg-id="serieclub.fr"tvg-logo="https://i.imgur.com/V8wRRg5.png"group-title="France",SERIE CLUB
+plugin://plugin.video.vavooto/?name=SERIE CLUB
+#EXTINF:-1 tvg-name="ABXplore"tvg-id="ABXploreFR.fr"tvg-logo="https://i.imgur.com/Z7bCdz9.png"group-title="France",ABXplore
+plugin://plugin.video.vavooto/?name=AB+EXPLORE
+#EXTINF:-1 tvg-name="GAME ONE"tvg-id="GameOne.fr"tvg-logo="https://i.imgur.com/UHkaObv.png"group-title="France",GAME ONE
+plugin://plugin.video.vavooto/?name=GAME ONE
+#EXTINF:-1 tvg-name="J-ONE"tvg-id="JOne.fr"tvg-logo="https://i.imgur.com/cicreDo.png"group-title="France",J-ONE
+plugin://plugin.video.vavooto/?name=J-ONE
+#EXTINF:-1 tvg-name="BET"tvg-id="BET.fr"tvg-logo="https://i.imgur.com/HOtpa6H.png"group-title="France",BET
+plugin://plugin.video.vavooto/?name=BET
+#EXTINF:-1 tvg-name="COMEDY CENTRAL"tvg-id="ComedyCentral.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png"group-title="France",COMEDY CENTRAL
+plugin://plugin.video.vavooto/?name=COMEDY CENTRAL
+#EXTINF:-1 tvg-name="PARIS PREMIERE"tvg-id="ParisPremiere.fr"tvg-logo="https://i.imgur.com/ily4bEm.png"group-title="France",PARIS PREMIERE
+plugin://plugin.video.vavooto/?name=PARIS PREMIERE
+#EXTINF:-1 tvg-name="TEVA"tvg-id="Teva.fr"tvg-logo="https://i.imgur.com/kDW0hN5.png"group-title="France",TEVA
+plugin://plugin.video.vavooto/?name=TEVA
+#EXTINF:-1 tvg-name="RTL9"tvg-id="RTL9.fr"tvg-logo="https://i.imgur.com/vMVdNtq.png"group-title="France",RTL9
+plugin://plugin.video.vavooto/?name=RTL 9
+#EXTINF:-1 tvg-name="TV BREIZH"tvg-id="TvBreizh.fr"tvg-logo="https://i.imgur.com/hAZlVHF.png"group-title="France",TV BREIZH
+plugin://plugin.video.vavooto/?name=TV BREIZH
+#EXTINF:-1 tvg-name="TV5MONDE FRANCE BELGIQUE SUISSE MONACO"tvg-id="TV5MONDE FRANCE BELGIQUE SUISSE MONACO"tvg-logo="https://i.imgur.com/WmRbudc.png"group-title="France",TV5MONDE FRANCE BELGIQUE SUISSE MONACO
+plugin://plugin.video.vavooto/?name=TV5MONDE FRANCE BELGIQUE SUISSE MONACO
+#EXTINF:-1 tvg-name="TV5MONDE FRANCE BELGIQUE SUISSE MONACO"tvg-id="TV5MONDE FRANCE BELGIQUE SUISSE MONACO"tvg-logo="https://i.imgur.com/WmRbudc.png"group-title="France",TV5MONDE FRANCE BELGIQUE SUISSE MONACO
+plugin://plugin.video.vavooto/?name=TV5MONDE FRANCE BELGIQUE SUISSE MONACO
+#EXTINF:-1 tvg-name="TV5MONDE EUROPE"tvg-id="TV5MondeEurope.fr"tvg-logo="https://i.imgur.com/rPAbMSu.png"group-title="France",TV5MONDE EUROPE
+plugin://plugin.video.vavooto/?name=TV5MONDE EUROPE
+#EXTINF:-1 tvg-name="TV5MONDE INFO"tvg-id="TV5MondeInfo.fr"tvg-logo="https://i.imgur.com/AJx5Fy2.png"group-title="France",TV5MONDE INFO
+plugin://plugin.video.vavooto/?name=TV5MONDE INFO
+#EXTINF:-1 tvg-name="TV5MONDE ETATS-UNIS"tvg-id="TV5MondeEtatsUnis.fr"tvg-logo="https://i.imgur.com/uSaKbmP.png"group-title="France",TV5MONDE ETATS-UNIS
+plugin://plugin.video.vavooto/?name=TV5MONDE INFO
+#EXTINF:-1 tvg-name="BFM TV"tvg-id="BFMTV.fr"tvg-logo="https://i.imgur.com/YJCcczD.png"group-title="France",BFM TV
+plugin://plugin.video.vavooto/?name=BFM TV
+#EXTINF:-1 tvg-name="BFM BUSINESS"tvg-id="BFMBusiness.fr"tvg-logo="https://i.imgur.com/psqIHn4.png"group-title="France",BFM BUSINESS
+plugin://plugin.video.vavooto/?name=BFM BUSINESS
+#EXTINF:-1 tvg-name="LCI"tvg-id="LCI"tvg-logo="https://i.imgur.com/DED8EXs.png"group-title="France",LCI
+plugin://plugin.video.vavooto/?name=LCI
+#EXTINF:-1 tvg-name="LCP HD"tvg-id="LaChaineParlementaire.fr"tvg-logo="https://i.imgur.com/k7UImOJ.png"group-title="France",LCP HD
+plugin://plugin.video.vavooto/?name=LCP
+#EXTINF:-1 tvg-name="LCP ASSEMBLEE NATIONALE"tvg-id="LCP ASSEMBLEE NATIONALE"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_LCP-AN_%282019%29.svg/langfr-512px-Logo_LCP-AN_%282019%29.svg.png"group-title="France",LCP ASSEMBLEE NATIONALE
+plugin://plugin.video.vavooto/?name=LCP ASSEMBLEE NATIONALE
+#EXTINF:-1 tvg-name="PUBLIC SENAT"tvg-id="PublicSenat2424.fr"tvg-logo="https://i.imgur.com/nHWWLBP.png"group-title="France",PUBLIC SENAT
+plugin://plugin.video.vavooto/?name=PUBLIC SENAT
+#EXTINF:-1 tvg-name="OCS MAX"tvg-id="OCSMax.fr"tvg-logo="https://i.imgur.com/nYS8K4A.png"group-title="France",OCS MAX
+plugin://plugin.video.vavooto/?name=OCS MAX
+#EXTINF:-1 tvg-name="OCS CHOC"tvg-id="OCSChoc.ch"tvg-logo="https://i.imgur.com/euruHoB.png"group-title="France",OCS CHOC
+plugin://plugin.video.vavooto/?name=OCS CHOC
+#EXTINF:-1 tvg-name="OCS CITY"tvg-id="OCSCity.ch"tvg-logo="https://i.imgur.com/mj38OWR.png"group-title="France",OCS CITY
+plugin://plugin.video.vavooto/?name=OCS CITY
+#EXTINF:-1 tvg-name="OCS GEANTS"tvg-id="OCSGeants.fr"tvg-logo="https://i.imgur.com/sd0HZ4L.png"group-title="France",OCS GEANTS
+plugin://plugin.video.vavooto/?name=OCS GEANTS
+#EXTINF:-1 tvg-name="OCS FRANCEBOX 1"tvg-id="OCS FRANCEBOX 1"tvg-logo="https://i.imgur.com/sd0HZ4L.png"group-title="France",OCS FRANCEBOX 1
+plugin://plugin.video.vavooto/?name=OCS FRANCEBOX 1
+#EXTINF:-1 tvg-name="OCS FRANCEBOX 2"tvg-id="OCS FRANCEBOX 2"tvg-logo="https://i.imgur.com/sd0HZ4L.png"group-title="France",OCS FRANCEBOX 2
+plugin://plugin.video.vavooto/?name=OCS FRANCEBOX 2
+#EXTINF:-1 tvg-name="OCS FRANCEBOX 3"tvg-id="OCS FRANCEBOX 3"tvg-logo="https://i.imgur.com/sd0HZ4L.png"group-title="France",OCS FRANCEBOX 3
+plugin://plugin.video.vavooto/?name=OCS FRANCEBOX 3
+#EXTINF:-1 tvg-name="OCS FRANCEBOX 4"tvg-id="OCS FRANCEBOX 4"tvg-logo="https://i.imgur.com/sd0HZ4L.png"group-title="France",OCS FRANCEBOX 4
+plugin://plugin.video.vavooto/?name=OCS FRANCEBOX 4
+#EXTINF:-1 tvg-name="OCS FRANCEBOX 5"tvg-id="OCS FRANCEBOX 5"tvg-logo="https://i.imgur.com/sd0HZ4L.png"group-title="France",OCS FRANCEBOX 5
+plugin://plugin.video.vavooto/?name=OCS FRANCEBOX 5
+#EXTINF:-1 tvg-name="OCS FRANCEBOX 1"tvg-id="OCS FRANCEBOX 1"tvg-logo="https://i.imgur.com/sd0HZ4L.png"group-title="France",OCS FRANCEBOX 1
+plugin://plugin.video.vavooto/?name=OCS FRANCEBOX 1
+#EXTINF:-1 tvg-name="CINE+ PREMIER"tvg-id="CinePlusPremier.fr"tvg-logo="https://i.imgur.com/b20LLN6.png"group-title="France",CINE+ PREMIER
+plugin://plugin.video.vavooto/?name=CINE%2B+PREMIER
+#EXTINF:-1 tvg-name="CINE+ FRISSON"tvg-id="CinePlusFrisson.fr"tvg-logo="https://i.imgur.com/7Sld39M.png"group-title="France",CINE+ FRISSON
+plugin://plugin.video.vavooto/?name=CINE%2B+FRISSON
+#EXTINF:-1 tvg-name="CINE+ EMOTION"tvg-id="CinePlusEmotion.fr"tvg-logo="https://i.imgur.com/sc3vTPQ.png"group-title="France",CINE+ EMOTION
+plugin://plugin.video.vavooto/?name=CINE%2B+EMOTION
+#EXTINF:-1 tvg-name="CINE+ FAMIZ"tvg-id="CinePlusFamiz.fr"tvg-logo="https://i.imgur.com/I54NoSs.png"group-title="France",CINE+ FAMIZ
+plugin://plugin.video.vavooto/?name=CINE%2B+FAMIZ
+#EXTINF:-1 tvg-name="CINE+ CLUB"tvg-id="CinePlusClub.fr"tvg-logo="https://i.imgur.com/OJfAUMj.png"group-title="France",CINE+ CLUB
+plugin://plugin.video.vavooto/?name=CINE%2B+CLUB
+#EXTINF:-1 tvg-name="CINE+ CLASSIC"tvg-id="CinePlusClassic.fr"tvg-logo="https://i.imgur.com/Dt1svSU.png"group-title="France",CINE+ CLASSIC
+plugin://plugin.video.vavooto/?name=CINE%2B+CLASSIC
+#EXTINF:-1 tvg-name="CANAL+"tvg-id="CanalPlus.fr"tvg-logo="https://i.imgur.com/5HcyMnW.png"group-title="France",CANAL+
+plugin://plugin.video.vavooto/?name=CANAL
+#EXTINF:-1 tvg-name="CANAL+ DECALE"tvg-id="CanalPlusDecale.fr"tvg-logo="https://i.imgur.com/nNyNFEG.png"group-title="France",CANAL+ DECALE
+plugin://plugin.video.vavooto/?name=CANAL+DECALE
+#EXTINF:-1 tvg-name="CANAL+ CINEMA"tvg-id="CanalPlusCinema.fr"tvg-logo="https://i.imgur.com/zzTAQjx.png"group-title="France",CANAL+ CINEMA
+plugin://plugin.video.vavooto/?name=CANAL%2b%20CINEMA
+#EXTINF:-1 tvg-name="CANAL+ KIDS"tvg-id="CanalPlusKIDS.fr"tvg-logo="https://i.imgur.com/xknv5py.png"group-title="France",CANAL+ KIDS
+plugin://plugin.video.vavooto/?name=CANAL%2b%20KIDS
+#EXTINF:-1 tvg-name="CANAL+ SERIES"tvg-id="CanalPlusSeries.fr"tvg-logo="https://i.imgur.com/JxXXTGk.png"group-title="France",CANAL+ SERIES
+plugin://plugin.video.vavooto/?name=CANAL%2b%20SERIES
+#EXTINF:-1 tvg-name="CANAL+ GRAND ECRAN"tvg-id="CanalPlusGrandEcran.fr"tvg-logo="https://i0.wp.com/www.planetecsat.com/wp-content/uploads/2022/01/CANALP_GRAND_ECRAN_1lignes_RVB_2021_06_07-07-01-22.png?w=509&ssl=1"group-title="France",CANAL+ GRAND ECRAN
+plugin://plugin.video.vavooto/?name=CANAL%2b%20GRAND ECRAN
+#EXTINF:-1 tvg-name="CANAL+ DOCS"tvg-id="CanalPlusDocs.fr"tvg-logo="https://i.imgur.com/WFXhE8f.png"group-title="France",CANAL+ DOCS
+plugin://plugin.video.vavooto/?name=CANAL%2b%20DOCS
+#EXTINF:-1 tvg-name="CANAL+ ELLES"tvg-id="CANAL+ ELLES"tvg-logo="https://i.imgur.com/d90LTl7.png"group-title="France",CANAL+ ELLES
+plugin://plugin.video.vavooto/?name=CANAL%2b%20ELLES
+#EXTINF:-1 tvg-name="CANAL+ FORMULA 1"tvg-id="CanalPlusFormula1.fr"tvg-logo="https://i.imgur.com/wVCBBYM.png"group-title="France",CANAL+ FORMULA 1
+plugin://plugin.video.vavooto/?name=CANAL%2b%20FORMULA 1
+#EXTINF:-1 tvg-name="CANAL+ MOTOGP"tvg-id="CanalPlusMotoGP.fr"tvg-logo="https://i.imgur.com/CnJE2M0.png"group-title="France",CANAL+ MOTOGP
+plugin://plugin.video.vavooto/?name=CANAL%2b%20MOTOGP
+#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL"tvg-id="ParamountChannel.fr"tvg-logo="https://i.imgur.com/BqmDlC2.png"group-title="France",PARAMOUNT CHANNEL
+plugin://plugin.video.vavooto/?name=PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL DECALE"tvg-id="ParamountChannelDecale.fr"tvg-logo="https://i.imgur.com/hNeTEFm.png"group-title="France",PARAMOUNT CHANNEL DECALE
+plugin://plugin.video.vavooto/?name=PARAMOUNT CHANNEL DECALE
+#EXTINF:-1 tvg-name="TCM CINEMA"tvg-id="TCM.fr"tvg-logo="https://i.imgur.com/fT4XxM6.png"group-title="France",TCM CINEMA
+plugin://plugin.video.vavooto/?name=TCM CINEMA
+#EXTINF:-1 tvg-name="ACTION"tvg-id="Action.fr"tvg-logo="https://i.imgur.com/Zv9VsVq.png"group-title="France",ACTION
+plugin://plugin.video.vavooto/?name=ACTION
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL"tvg-id="DISCOVERY CHANNEL"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png"group-title="France",DISCOVERY CHANNEL
+plugin://plugin.video.vavooto/?name=DISCOVERY CHANNEL
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE"tvg-id="DISCOVERY SCIENCE"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png"group-title="France",DISCOVERY SCIENCE
+plugin://plugin.video.vavooto/?name=DISCOVERY SCIENCE
+#EXTINF:-1 tvg-name="RMC DECOUVERTE"tvg-id="RMC DECOUVERTE"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/langfr-350px-RMC_D%C3%A9couverte_logo_2017.svg.png"group-title="France",RMC DECOUVERTE
+plugin://plugin.video.vavooto/?name=RMC DECOUVERTE
+#EXTINF:-1 tvg-name="USHUAIA TV"tvg-id="USHUAIA TV"tvg-logo="https://i.imgur.com/WjjlqbP.png"group-title="France",USHUAIA TV
+plugin://plugin.video.vavooto/?name=USHUAIA TV
+#EXTINF:-1 tvg-name="TREK"tvg-id="TREK"tvg-logo="https://i.imgur.com/rGvsbnp.png"group-title="France",TREK
+plugin://plugin.video.vavooto/?name=TREK
+#EXTINF:-1 tvg-name="CRIME DISTRICT"tvg-id="CRIME DISTRICT"tvg-logo="https://i.imgur.com/WQJ6Lbk.png"group-title="France",CRIME DISTRICT
+plugin://plugin.video.vavooto/?name=CRIME DISTRICT
+#EXTINF:-1 tvg-name="HISTOIRE TV"tvg-id="HISTOIRE TV"tvg-logo="https://i.imgur.com/yvX55Cc.png"group-title="France",HISTOIRE TV
+plugin://plugin.video.vavooto/?name=HISTOIRE TV
+#EXTINF:-1 tvg-name="TOUTE HISTOIRE"tvg-id="TOUTE HISTOIRE"tvg-logo="https://i.imgur.com/xRfyQYn.png"group-title="France",TOUTE L'HISTOIRE
+plugin://plugin.video.vavooto/?name=TOUTE HISTOIRE
+#EXTINF:-1 tvg-name="KTO"tvg-id="KTO"tvg-logo="https://i.imgur.com/EY6TsdV.png"group-title="France",KTO
+plugin://plugin.video.vavooto/?name=KTO
+#EXTINF:-1 tvg-name="ANIMAUX"tvg-id="ANIMAUX"tvg-logo="https://i.imgur.com/9XTpmJR.png"group-title="France",ANIMAUX
+plugin://plugin.video.vavooto/?name=ANIMAUX
+#EXTINF:-1 tvg-name="SCIENCE & VIE TV"tvg-id="SCIENCE & VIE TV"tvg-logo="https://i.imgur.com/9ELsSMI.png"group-title="France",SCIENCE & VIE TV
+plugin://plugin.video.vavooto/?name=SCIENCE & VIE TV
+#EXTINF:-1 tvg-name="FASHION TV"tvg-id="FASHION TV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png"group-title="France",FASHION TV
+plugin://plugin.video.vavooto/?name=FASHION TV
+#EXTINF:-1 tvg-name="MYZEN TV"tvg-id="MYZEN TV"tvg-logo="https://i.imgur.com/fIi8o0C.png"group-title="France",MYZEN TV
+plugin://plugin.video.vavooto/?name=MYZEN TV
+#EXTINF:-1 tvg-name="MUSEUM"tvg-id="MUSEUM"tvg-logo="https://i.imgur.com/WbjURLo.png"group-title="France",MUSEUM
+plugin://plugin.video.vavooto/?name=MUSEUM
+#EXTINF:-1 tvg-name="NICKELODEON JUNIOR"tvg-id="NICKELODEON JUNIOR"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/512px-Nickelodeon_Junior.png"group-title="France",NICKELODEON JUNIOR
+plugin://plugin.video.vavooto/?name=NICKELODEON JUNIOR
+#EXTINF:-1 tvg-name="BOOMERANG"tvg-id="BOOMERANG"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png"group-title="France",BOOMERANG
+plugin://plugin.video.vavooto/?name=BOOMERANG
+#EXTINF:-1 tvg-name="TIJI"tvg-id="TIJI.fr"tvg-logo="https://i.imgur.com/ZjsfAGb.png"group-title="France",TIJI
+plugin://plugin.video.vavooto/?name=TIJI
+#EXTINF:-1 tvg-name="GULLI"tvg-id="Gulli.fr"tvg-logo="https://i.imgur.com/kqYssbW.png"group-title="France",GULLI
+plugin://plugin.video.vavooto/?name=GULLI
+#EXTINF:-1 tvg-name="CANAL J"tvg-id="CanalJ.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/512px-Canal_J_2019_Logo.png"group-title="France",CANAL J
+plugin://plugin.video.vavooto/?name=CANAL J
+#EXTINF:-1 tvg-name="CARTOON NETWORK"tvg-id="CartoonNetwork.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"group-title="France",CARTOON NETWORK
+plugin://plugin.video.vavooto/?name=CARTOON NETWORK
+#EXTINF:-1 tvg-name="NICKELODEON TEEN"tvg-id="Nickelodeon4Teen.fr"tvg-logo="https://i.imgur.com/OWRUPA4.png"group-title="France",NICKELODEON TEEN
+plugin://plugin.video.vavooto/?name=NICKELODEON TEEN
+#EXTINF:-1 tvg-name="WARNER (7)" group-title="France"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png",WARNER TV
+plugin://plugin.video.vavooto/?name=WARNER TV
+#EXTINF:-1 tvg-name="TOONAMI"tvg-id="WarnerTV.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Warner_TV_Next_logo.png"group-title="France",WARNER TV Next
+plugin://plugin.video.vavooto/?name=TOONAMI
+#EXTINF:-1 tvg-name="TORTUES NINJA TV"tvg-id="TORTUES NINJA TV"tvg-logo="https://i.imgur.com/d2ACbkV.png"group-title="France",TORTUES NINJA TV
+plugin://plugin.video.vavooto/?name=TORTUES NINJA TV
+#EXTINF:-1 tvg-name="MANGAS HD"tvg-id="Mangas.fr"tvg-logo="https://i.imgur.com/Zl8cCdg.png"group-title="France",MANGAS HD
+plugin://plugin.video.vavooto/?name=MANGAS
+#EXTINF:-1 tvg-name="LUCKY JACK TV"tvg-id="LUCKY JACK TV"tvg-logo="https://i.imgur.com/HKIydT6.png"group-title="France",LUCKY JACK TV
+plugin://plugin.video.vavooto/?name=LUCKY JACK TV
+#EXTINF:-1 tvg-name="MTV HITS FRANCE"tvg-id="MTV HITS FRANCE"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/512px-MTV_Hits_2021.svg.png"group-title="France",MTV HITS FRANCE
+plugin://plugin.video.vavooto/?name=MTV HITS FRANCE
+#EXTINF:-1 tvg-name="M6 MUSIC HD"tvg-id="M6 MUSIC HD"tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png"group-title="France",M6 MUSIC HD
+plugin://plugin.video.vavooto/?name=M6 MUSIC
+#EXTINF:-1 tvg-name="RFM TV HD"tvg-id="RFM TV HD"tvg-logo="https://i.imgur.com/FVDTJxW.png"group-title="France",RFM TV HD
+plugin://plugin.video.vavooto/?name=RFM TV
+#EXTINF:-1 tvg-name="NRJ HITS"tvg-id="NRJ HITS"tvg-logo="https://i.imgur.com/2xDVwOh.png"group-title="France",NRJ HITS
+plugin://plugin.video.vavooto/?name=NRJ HITS
+#EXTINF:-1 tvg-name="MEZZO"tvg-id="MEZZO"tvg-logo="https://i.imgur.com/auNdGeW.png"group-title="France",MEZZO
+plugin://plugin.video.vavooto/?name=MEZZO
+#EXTINF:-1 tvg-name="MEZZO LIVE"tvg-id="MEZZO LIVE"tvg-logo="https://i.imgur.com/H9ytKPN.png"group-title="France",MEZZO LIVE
+plugin://plugin.video.vavooto/?name=MEZZO LIVE
+#EXTINF:-1 tvg-name="MELODY HD"tvg-id="MELODY HD"tvg-logo="https://i.imgur.com/9GVyQ6x.png"group-title="France",MELODY HD
+plugin://plugin.video.vavooto/?name=MELODY
+#EXTINF:-1 tvg-name="TRACE URBAN HD"tvg-id="TRACE URBAN HD"tvg-logo="https://i.imgur.com/xRJDVR3.png"group-title="France",TRACE URBAN HD
+plugin://plugin.video.vavooto/?name=TRACE URBAN
+#EXTINF:-1 tvg-name="TRACE AFRICA"tvg-id="TRACE AFRICA"tvg-logo="https://i.imgur.com/kPUkoS7.png"group-title="France",TRACE AFRICA
+plugin://plugin.video.vavooto/?name=TRACE AFRICA
+#EXTINF:-1 tvg-name="TRACE CARIBBEAN"tvg-id="TRACE CARIBBEAN"tvg-logo="https://i.imgur.com/ZHD7Vxy.png"group-title="France",TRACE CARIBBEAN
+plugin://plugin.video.vavooto/?name=TRACE CARIBBEAN
+#EXTINF:-1 tvg-name="TRACE SPORT STARS"tvg-id="TRACE SPORT STARS"tvg-logo="https://i.imgur.com/FabFP5A.png"group-title="France",TRACE SPORT STARS
+plugin://plugin.video.vavooto/?name=TRACE SPORT STARS
+
+#EXTINF:-1 tvg-name="AMAZON+PRIME+1"tvg-id="AmazonPrime1.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/640px-Amazon_Prime_Video_logo.svg.png"group-title="France",AMAZON PRIME 1
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+1
+#EXTINF:-1 tvg-name="AMAZON+PRIME+1"tvg-id="AmazonPrime2.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/640px-Amazon_Prime_Video_logo.svg.png"group-title="France",AMAZON PRIME 2
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+2
+#EXTINF:-1 tvg-name="AMAZON+PRIME+3"tvg-id="AmazonPrime3.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/640px-Amazon_Prime_Video_logo.svg.png"group-title="France",AMAZON PRIME 3
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+3
+#EXTINF:-1 tvg-name="AMAZON+PRIME+4"tvg-id="AmazonPrime4.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/640px-Amazon_Prime_Video_logo.svg.png"group-title="France",AMAZON PRIME 4
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+4
+#EXTINF:-1 tvg-name="AMAZON+PRIME+5"tvg-id="AmazonPrime5.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/640px-Amazon_Prime_Video_logo.svg.png"group-title="France",AMAZON PRIME 5
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+5
+#EXTINF:-1 tvg-name="AMAZON+PRIME+6"tvg-id="AmazonPrime6.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/640px-Amazon_Prime_Video_logo.svg.png"group-title="France",AMAZON PRIME 6
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+6
+#EXTINF:-1 tvg-name="AMAZON+PRIME+7"tvg-id="AmazonPrime7.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/640px-Amazon_Prime_Video_logo.svg.png"group-title="France",AMAZON PRIME 7
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+7
+#EXTINF:-1 tvg-name="AMAZON+PRIME+8"tvg-id="AmazonPrime8.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/640px-Amazon_Prime_Video_logo.svg.png"group-title="France",AMAZON PRIME 8
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+8
+#EXTINF:-1 tvg-name="AMAZON+PRIME+9"tvg-id="AmazonPrime9.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/640px-Amazon_Prime_Video_logo.svg.png"group-title="France",AMAZON PRIME 9
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+9
+#EXTINF:-1 tvg-name="AMAZON+PRIME+10"tvg-id="AmazonPrime10.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/640px-Amazon_Prime_Video_logo.svg.png"group-title="France",AMAZON PRIME 10
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+10
+#EXTINF:-1 tvg-name="AMAZON+PRIME+11"tvg-id="AmazonPrime11.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/640px-Amazon_Prime_Video_logo.svg.png"group-title="France",AMAZON PRIME 11
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+11
+#EXTINF:-1 tvg-name="AMAZON+PRIME+12"tvg-id="AmazonPrime12.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/640px-Amazon_Prime_Video_logo.svg.png"group-title="France",AMAZON PRIME 12
+plugin://plugin.video.vavooto/?name=AMAZON+PRIME+12
+#EXTINF:-1 tvg-name="A LA CARTE 1"tvg-id="CineAlacarte.fr"tvg-logo=""group-title="France",A LA CARTE 1
+plugin://plugin.video.vavooto/?name=A+LA+CARTE+1
+#EXTINF:-1 tvg-name="A LA CARTE 2"tvg-id="CineAlacarte.fr"tvg-logo=""group-title="France",A LA CARTE 2
+plugin://plugin.video.vavooto/?name=A+LA+CARTE+2
+#EXTINF:-1 tvg-name="A LA CARTE 3"tvg-id="CineAlacarte.fr"tvg-logo=""group-title="France",A LA CARTE 3
+plugin://plugin.video.vavooto/?name=A+LA+CARTE+3
+#EXTINF:-1 tvg-name="A LA CARTE 4"tvg-id="CineAlacarte.fr"tvg-logo=""group-title="France",A LA CARTE 4
+plugin://plugin.video.vavooto/?name=A+LA+CARTE+4
+#EXTINF:-1 tvg-name="A LA CARTE 5"tvg-id="CineAlacarte.fr"tvg-logo=""group-title="France",A LA CARTE 5
+plugin://plugin.video.vavooto/?name=A+LA+CARTE+5
+#EXTINF:-1 tvg-name="A LA CARTE 6"tvg-id="CineAlacarte.fr"tvg-logo=""group-title="France",A LA CARTE 6
+plugin://plugin.video.vavooto/?name=A+LA+CARTE+6
+#EXTINF:-1 tvg-name="A LA CARTE 7"tvg-id="CineAlacarte.fr"tvg-logo=""group-title="France",A LA CARTE 7
+plugin://plugin.video.vavooto/?name=A+LA+CARTE+7
+#EXTINF:-1 tvg-name="A LA CARTE 8"tvg-id="CineAlacarte.fr"tvg-logo=""group-title="France",A LA CARTE 8
+plugin://plugin.video.vavooto/?name=A+LA+CARTE+8
+#EXTINF:-1 tvg-name="A LA CARTE 9"tvg-id="CineAlacarte.fr"tvg-logo=""group-title="France",A LA CARTE 9
+plugin://plugin.video.vavooto/?name=A+LA+CARTE+9
+#EXTINF:-1 tvg-name="A LA CARTE 10"tvg-id="CineAlacarte.fr"tvg-logo=""group-title="France",A LA CARTE 10
+plugin://plugin.video.vavooto/?name=A+LA+CARTE+10
+#EXTINF:-1 tvg-name="BOX OFFICE 1"tvg-id="BOX OFFICE 1"tvg-logo=""group-title="France",BOX OFFICE 1
+plugin://plugin.video.vavooto/?name=BOX+OFFICE+1
+#EXTINF:-1 tvg-name="BOX OFFICE 2"tvg-id="BOX OFFICE 2"tvg-logo=""group-title="France",BOX OFFICE 2
+plugin://plugin.video.vavooto/?name=BOX+OFFICE+2
+#EXTINF:-1 tvg-name="BOX OFFICE 3"tvg-id="BOX OFFICE 3"tvg-logo=""group-title="France",BOX OFFICE 3
+plugin://plugin.video.vavooto/?name=BOX+OFFICE+3
+#EXTINF:-1 tvg-name="BOX OFFICE 4"tvg-id="BOX OFFICE 4"tvg-logo=""group-title="France",BOX OFFICE 4
+plugin://plugin.video.vavooto/?name=BOX+OFFICE+4
+#EXTINF:-1 tvg-name="BOX OFFICE 5"tvg-id="BOX OFFICE 5"tvg-logo=""group-title="France",BOX OFFICE 5
+plugin://plugin.video.vavooto/?name=BOX+OFFICE+5
+#EXTINF:-1 tvg-name="BOX OFFICE 6"tvg-id="BOX OFFICE 6"tvg-logo=""group-title="France",BOX OFFICE 6
+plugin://plugin.video.vavooto/?name=BOX+OFFICE+6
+#EXTINF:-1 tvg-name="BOX OFFICE 7"tvg-id="BOX OFFICE 7"tvg-logo=""group-title="France",BOX OFFICE 7
+plugin://plugin.video.vavooto/?name=BOX+OFFICE+7
+#EXTINF:-1 tvg-name="BOX OFFICE 8"tvg-id="BOX OFFICE 8"tvg-logo=""group-title="France",BOX OFFICE 8
+plugin://plugin.video.vavooto/?name=BOX+OFFICE+8
+#EXTINF:-1 tvg-name="BOX OFFICE 9"tvg-id="BOX OFFICE 9"tvg-logo=""group-title="France",BOX OFFICE 9
+plugin://plugin.video.vavooto/?name=BOX+OFFICE+9
+#EXTINF:-1 tvg-name="CANAL+PLAY"tvg-id="CANAL+PLAY"tvg-logo=""group-title="France",CANAL PLAY
+plugin://plugin.video.vavooto/?name=CANAL+PLAY
+#EXTINF:-1 tvg-name="CANAL+PLAY1"tvg-id="CANAL+PLAY1"tvg-logo=""group-title="France",CANAL PLAY 1
+plugin://plugin.video.vavooto/?name=CANAL+PLAY+1
+#EXTINF:-1 tvg-name="CANAL+PLAY2"tvg-id="CANAL+PLAY2"tvg-logo=""group-title="France",CANAL PLAY 2
+plugin://plugin.video.vavooto/?name=CANAL+PLAY+2
+#EXTINF:-1 tvg-name="CANAL+PLAY3"tvg-id="CANAL+PLAY3"tvg-logo=""group-title="France",CANAL PLAY 3
+plugin://plugin.video.vavooto/?name=CANAL+PLAY+3
+#EXTINF:-1 tvg-name="CANAL+PLAY4"tvg-id="CANAL+PLAY4"tvg-logo=""group-title="France",CANAL PLAY 4
+plugin://plugin.video.vavooto/?name=CANAL+PLAY+4
+#EXTINF:-1 tvg-name="CANAL+PLAY5"tvg-id="CANAL+PLAY5"tvg-logo=""group-title="France",CANAL PLAY 5
+plugin://plugin.video.vavooto/?name=CANAL+PLAY+5
+#EXTINF:-1 tvg-name="CANAL+PLAY6"tvg-id="CANAL+PLAY6"tvg-logo=""group-title="France",CANAL PLAY 6
+plugin://plugin.video.vavooto/?name=CANAL+PLAY+6
+#EXTINF:-1 tvg-name="CANAL+PLAY7"tvg-id="CANAL+PLAY7"tvg-logo=""group-title="France",CANAL PLAY 7
+plugin://plugin.video.vavooto/?name=CANAL+PLAY+7
+#EXTINF:-1 tvg-name="CANAL+PLAY8"tvg-id="CANAL+PLAY8"tvg-logo=""group-title="France",CANAL PLAY 8
+plugin://plugin.video.vavooto/?name=CANAL+PLAY+8
+#EXTINF:-1 tvg-name="CANAL+PLAY9"tvg-id="CANAL+PLAY9"tvg-logo=""group-title="France",CANAL PLAY 9
+plugin://plugin.video.vavooto/?name=CANAL+PLAY+9
+#EXTINF:-1 tvg-name="CANAL+PLAY10"tvg-id="CANAL+PLAY10"tvg-logo=""group-title="France",CANAL PLAY 10
+plugin://plugin.video.vavooto/?name=CANAL+PLAY+10
+#EXTINF:-1 tvg-name="CANAL+PLAY14"tvg-id="CANAL+PLAY14"tvg-logo=""group-title="France",CANAL PLAY 14
+plugin://plugin.video.vavooto/?name=CANAL+PLAY+14
+#EXTINF:-1 tvg-name="CANAL+PLAY15"tvg-id="CANAL+PLAY15"tvg-logo=""group-title="France",CANAL PLAY 15
+plugin://plugin.video.vavooto/?name=CANAL+PLAY+15
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 FHD"tvg-id="beINSPORTS1.fr"tvg-logo="https://i.imgur.com/Vtk2cGI.png"group-title="France",BEIN SPORTS 1
+plugin://plugin.video.vavooto/?name=BEIN SPORTS 1
+#EXTINF:-1 tvg-name="BEIN SPORTS 2 FHD"tvg-id="beINSPORTS2.fr"tvg-logo="https://i.imgur.com/vUJZSvs.png"group-title="France",BEIN SPORTS 2
+plugin://plugin.video.vavooto/?name=BEIN SPORTS 2
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 FHD"tvg-id="beINSPORTS3.fr"tvg-logo="https://i.imgur.com/UYSMao3.png"group-title="France",BEIN SPORTS 3
+plugin://plugin.video.vavooto/?name=BEIN SPORTS 3
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 4 HD"tvg-id="beINSPORTSMAX4.fr"tvg-logo="https://i.imgur.com/bwHNMLh.png"group-title="France",BEIN SPORTS MAX 4
+plugin://plugin.video.vavooto/?name=BEIN SPORTS MAX 4
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 5 HD"tvg-id="beINSPORTSMAX5.fr"tvg-logo="https://i.imgur.com/8Hj8ZiT.png"group-title="France",BEIN SPORTS MAX 5
+plugin://plugin.video.vavooto/?name=BEIN SPORTS MAX 5
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 6 HD"tvg-id="beINSPORTSMAX6.fr"tvg-logo="https://i.imgur.com/Eh1130b.png"group-title="France",BEIN SPORTS MAX 6
+plugin://plugin.video.vavooto/?name=BEIN SPORTS MAX 6
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 7 HD"tvg-id="beINSPORTSMAX7.fr"tvg-logo="https://i.imgur.com/sMH0tFc.png"group-title="France",BEIN SPORTS MAX 7
+plugin://plugin.video.vavooto/?name=BEIN SPORTS MAX 7
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 8 HD"tvg-id="beINSPORTSMAX8.fr"tvg-logo="https://i.imgur.com/VTzzoQP.png"group-title="France",BEIN SPORTS MAX 8
+plugin://plugin.video.vavooto/?name=BEIN SPORTS MAX 8
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 9 HD"tvg-id="beINSPORTSMAX9.fr"tvg-logo="https://i.imgur.com/dMTBut1.png"group-title="France",BEIN SPORTS MAX 9
+plugin://plugin.video.vavooto/?name=BEIN SPORTS MAX 9
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 10 HD"tvg-id="beINSPORTSMAX10.fr"tvg-logo="https://i.imgur.com/lVB4Ao9.png"group-title="France",BEIN SPORTS MAX 10
+plugin://plugin.video.vavooto/?name=BEIN SPORTS MAX 10
+
+#EXTINF:-1 tvg-name="MULTISPORTS 1 (6)" group-title="France" tvg-logo="https://i.imgur.com/sWKVs7F.png",MULTISPORTS 1
+plugin://plugin.video.vavooto/?name=MULTISPORTS 1
+#EXTINF:-1 tvg-name="MULTISPORTS 2 (6)" group-title="France" tvg-logo="https://i.imgur.com/AXSgo41.png",MULTISPORTS 2
+plugin://plugin.video.vavooto/?name=MULTISPORTS 2
+#EXTINF:-1 tvg-name="MULTISPORTS 3 (6)" group-title="France" tvg-logo="https://i.imgur.com/ol2qxLM.png",MULTISPORTS 3
+plugin://plugin.video.vavooto/?name=MULTISPORTS 3
+#EXTINF:-1 tvg-name="MULTISPORTS 4 (6)" group-title="France" tvg-logo="https://i.imgur.com/tgvNLyy.png",MULTISPORTS 4
+plugin://plugin.video.vavooto/?name=MULTISPORTS 4
+#EXTINF:-1 tvg-name="MULTISPORTS 5 (6)" group-title="France" tvg-logo="https://i.imgur.com/fFmTJwV.png",MULTISPORTS 5
+plugin://plugin.video.vavooto/?name=MULTISPORTS 5
+#EXTINF:-1 tvg-name="MULTISPORTS 6 (6)" group-title="France" tvg-logo="https://i.imgur.com/qD53BMA.png",MULTISPORTS 6
+plugin://plugin.video.vavooto/?name=MULTISPORTS 6
+
+#EXTINF:-1 tvg-name="EUROSPORT 1 (7)" group-title="France" tvg-logo="https://i.imgur.com/olQJgm7.png",EUROSPORT 1
+plugin://plugin.video.vavooto/?name=EUROSPORT 1
+#EXTINF:-1 tvg-name="EUROSPORT 2 (7)" group-title="France" tvg-logo="https://i.imgur.com/f56dHgR.png",EUROSPORT 2
+plugin://plugin.video.vavooto/?name=EUROSPORT 2
+#EXTINF:-1 tvg-name="EUROSPORT 360 1 (7)" group-title="France" tvg-logo="https://i.imgur.com/YFHXbVF.png",EUROSPORT 360 1
+plugin://plugin.video.vavooto/?name=EUROSPORT 360 1
+#EXTINF:-1 tvg-name="EUROSPORT 360 2 (7)" group-title="France" tvg-logo="https://i.imgur.com/XojEcFE.png",EUROSPORT 360 2
+plugin://plugin.video.vavooto/?name=EUROSPORT 360 2
+#EXTINF:-1 tvg-name="EUROSPORT 360 3 (7)" group-title="France" tvg-logo="https://i.imgur.com/g1s0frd.png",EUROSPORT 360 3
+plugin://plugin.video.vavooto/?name=EUROSPORT 360 3
+#EXTINF:-1 tvg-name="EXTREME SPORTS (7)" group-title="France" tvg-logo="https://i.imgur.com/m7IC01U.png",EXTREME SPORTS
+plugin://plugin.video.vavooto/?name=EXTREME SPORTS
+#EXTINF:-1 tvg-name="FOOT+ (7)" group-title="France" tvg-logo="https://i.imgur.com/qsLLyn4.png",FOOT
+plugin://plugin.video.vavooto/?name=FOOT
+
+#EXTINF:-1 tvg-name="RMC SPORT 1"tvg-id="RMCSport1.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/2560px-Logo_RMC_Sport_1_2018.svg.png"group-title="France",RMC Sport 1
+plugin://plugin.video.vavooto/?name=RMC SPORT 1
+#EXTINF:-1 tvg-name="RMC SPORT 1 ACCESS"tvg-id="RMCSportAccess1.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/2560px-Logo_RMC_Sport_1_2018.svg.png"group-title="France",RMC Sport Access 1
+plugin://plugin.video.vavooto/?name=RMC SPORT 1 ACCESS
+#EXTINF:-1 tvg-name="RMC SPORT 2"tvg-id="RMCSport2.fr"tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png"group-title="France",RMC Sport 2
+plugin://plugin.video.vavooto/?name=RMC SPORT 2
+#EXTINF:-1 tvg-name="RMC SPORT 2 ACCESS"tvg-id="RMCSportAccess2.fr"tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png"group-title="France",RMC Sport Access 2
+plugin://plugin.video.vavooto/?name=RMC SPORT 2 ACCESS
+#EXTINF:-1 tvg-name="RMC SPORT 3"tvg-id="RMCSport3.fr"tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png"group-title="France",RMC Sport 3
+plugin://plugin.video.vavooto/?name=RMC SPORT 3
+#EXTINF:-1 tvg-name="RMC SPORT 3 ACCESS"tvg-id="RMCSportAccess3.fr"tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png"group-title="France",RMC Sport Access 3
+plugin://plugin.video.vavooto/?name=RMC SPORT 3 ACCESS
+#EXTINF:-1 tvg-name="RMC SPORT 4"tvg-id="RMCSport4.fr"tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png"group-title="France",RMC Sport 4
+plugin://plugin.video.vavooto/?name=RMC SPORT 4
+#EXTINF:-1 tvg-name="RMC+SPORT+5"tvg-id="RMC+SPORT+5"tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png"group-title="France",RMC SPORT 5
+plugin://plugin.video.vavooto/?name=RMC SPORT 5
+#EXTINF:-1 tvg-name="RMC+SPORT+6"tvg-id="RMC+SPORT+6"tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png"group-title="France",RMC SPORT 6
+plugin://plugin.video.vavooto/?name=RMC SPORT 6
+#EXTINF:-1 tvg-name="RMC+SPORT+7"tvg-id="RMC+SPORT+7"tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png"group-title="France",RMC SPORT 7
+plugin://plugin.video.vavooto/?name=RMC SPORT 7
+#EXTINF:-1 tvg-name="RMC+SPORT+8"tvg-id="RMC+SPORT+8"tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png"group-title="France",RMC SPORT 8
+plugin://plugin.video.vavooto/?name=RMC SPORT 8
+#EXTINF:-1 tvg-name="RMC+SPORT+9"tvg-id="RMC+SPORT+9"tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png"group-title="France",RMC SPORT 9
+plugin://plugin.video.vavooto/?name=RMC SPORT 9
+#EXTINF:-1 tvg-name="RMC+SPORT+10"tvg-id="RMC+SPORT+10"tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png"group-title="France",RMC SPORT 10
+plugin://plugin.video.vavooto/?name=RMC SPORT 10
+#EXTINF:-1 tvg-name="RMC+SPORT+11"tvg-id="RMC+SPORT+11"tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png"group-title="France",RMC SPORT 11
+plugin://plugin.video.vavooto/?name=RMC SPORT 11
+#EXTINF:-1 tvg-name="RMC+SPORT+12"tvg-id="RMC+SPORT+12"tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png"group-title="France",RMC SPORT 12
+plugin://plugin.video.vavooto/?name=RMC SPORT 12
+#EXTINF:-1 tvg-name="RMC+SPORT+13"tvg-id="RMC+SPORT+13"tvg-logo="https://www.reseaux-com.fr/wp-content/uploads/2018/06/logo-rmc-sport.png"group-title="France",RMC SPORT 13
+plugin://plugin.video.vavooto/?name=RMC SPORT 13
+#EXTINF:-1 tvg-name="RMCSportLive5.fr"tvg-id="RMCSportLive5.fr"tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsportlive52.png"group-title="France",RMC Sport Live 5
+plugin://plugin.video.vavooto/?name=RMC SPORT LIVE 5
+#EXTINF:-1 tvg-name="RMCSportLive6"tvg-id="RMCSportLive6"tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsportlive62.png"group-title="France",RMC Sport Live 6
+plugin://plugin.video.vavooto/?name=RMC SPORT LIVE 6
+#EXTINF:-1 tvg-name="RMCSportLive7"tvg-id="RMCSportLive7"tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsportlive72.png"group-title="France",RMC Sport Live 7
+plugin://plugin.video.vavooto/?name=RMC SPORT LIVE 7
+#EXTINF:-1 tvg-name="RMCSportLive8"tvg-id="RMCSportLive8"tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsportlive82.png"group-title="France",RMC Sport Live 8
+plugin://plugin.video.vavooto/?name=RMC SPORT LIVE 8
+#EXTINF:-1 tvg-name="RMCSportLive9"tvg-id="RMCSportLive9"tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~d57067f1262232bf.png/1200x630/crop-from/top/quality/80/rmc-sport-live-9.png"group-title="France",RMC Sport Live 9
+plugin://plugin.video.vavooto/?name=RMC SPORT LIVE 9
+#EXTINF:-1 tvg-name="RMCSportLive10"tvg-id="RMCSportLive10"tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~11bd6201e10fb7b6.png/1200x630/crop-from/top/quality/80/rmc-sport-live-10.png"group-title="France",RMC Sport Live 10
+plugin://plugin.video.vavooto/?name=RMC SPORT LIVE 10
+#EXTINF:-1 tvg-name="RMCSportLive11"tvg-id="RMCSportLive11"tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~11bd6201e10fb7b6.png/1200x630/crop-from/top/quality/80/rmc-sport-live-10.png"group-title="France",RMC Sport Live 11
+plugin://plugin.video.vavooto/?name=RMC SPORT LIVE 11
+#EXTINF:-1 tvg-name="RMCSportLive12"tvg-id="RMCSportLive12"tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmc-sport-live-12.png"group-title="France",RMC Sport Live 12
+plugin://plugin.video.vavooto/?name=RMC SPORT LIVE 12
+#EXTINF:-1 tvg-name="RMCSportLive13"tvg-id="RMCSportLive13"tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/regarder-rmc-sport-live-13.png"group-title="France",RMC Sport Live 13
+plugin://plugin.video.vavooto/?name=RMC SPORT LIVE 13
+#EXTINF:-1 tvg-name="RMCSportLive14"tvg-id="RMCSportLive14"tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/regarder-rmc-sport-live-14.png"group-title="France",RMC Sport Live 14
+plugin://plugin.video.vavooto/?name=RMC SPORT LIVE 14
+#EXTINF:-1 tvg-name="RMCSportLive15"tvg-id="RMCSportLive15"tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmc-sport-live-15-regarder.png"group-title="France",RMC Sport Live 15
+plugin://plugin.video.vavooto/?name=RMC SPORT LIVE 15
+#EXTINF:-1 tvg-name="RMCSportLive16"tvg-id="RMCSportLive16"tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmc-sport-live-16.png"group-title="France",RMC Sport Live16
+plugin://plugin.video.vavooto/?name=RMC SPORT LIVE 16
+#EXTINF:-1 tvg-name="RMCSportNews.fr"tvg-id="RMCSportNews.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_RMC_Sport_News_2018.png"group-title="France",RMC Sport News
+plugin://plugin.video.vavooto/?name=RMC SPORT NEWS
+
+#EXTINF:-1 tvg-name="RAI 1 (7)"tvg-id="RAI1.it"tvg-logo="https://i.imgur.com/0H9sGp3.png"group-title="Italy",RAI 1
+plugin://plugin.video.vavooto/?name=RAI 1
+#EXTINF:-1 tvg-name="RAI 2 (7)"tvg-id="RAI2.it"tvg-logo="https://i.imgur.com/fvAcZ02.png"group-title="Italy",RAI 2
+plugin://plugin.video.vavooto/?name=RAI 2
+#EXTINF:-1 tvg-name="RAI 3 (7)"tvg-id="RAI3.it"tvg-logo="https://i.imgur.com/VYgkKzj.png"group-title="Italy",RAI 3
+plugin://plugin.video.vavooto/?name=RAI 3
+#EXTINF:-1 tvg-name="RETE 4 (7)"tvg-id="RETE 4 (7)"tvg-logo="https://i.imgur.com/9l0nHN4.png"group-title="Italy",RETE 4
+plugin://plugin.video.vavooto/?name=RETE 4
+#EXTINF:-1 tvg-name="CANALE 5 (7)"tvg-id="CANALE 5 (7)"tvg-logo="https://i.imgur.com/B9rgcy9.png"group-title="Italy",CANALE 5
+plugin://plugin.video.vavooto/?name=CANALE 5
+#EXTINF:-1 tvg-name="MEDIASET 1 (7)"tvg-id="MEDIASET 1 (7)"tvg-logo="https://i.imgur.com/6mYr74i.png"group-title="Italy",MEDIASET 1
+plugin://plugin.video.vavooto/?name=MEDIASET 1
+#EXTINF:-1 tvg-name="MEDIASET 20 (7)"tvg-id="MEDIASET 20 (7)"tvg-logo="https://i.imgur.com/ygKoWan.png"group-title="Italy",MEDIASET 20
+plugin://plugin.video.vavooto/?name=MEDIASET 20
+#EXTINF:-1 tvg-name="MEDIASET IRIS (7)"tvg-id="MEDIASET IRIS (7)"tvg-logo="https://i.imgur.com/ZLnSLh4.png"group-title="Italy",MEDIASET IRIS
+plugin://plugin.video.vavooto/?name=MEDIASET IRIS
+#EXTINF:-1 tvg-name="MEDIASET ITALIA 2 (7)"tvg-id="MEDIASET ITALIA 2 (7)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/512px-Logo_Italia2.svg.png"group-title="Italy",MEDIASET ITALIA 2
+plugin://plugin.video.vavooto/?name=MEDIASET ITALIA 2
+#EXTINF:-1 tvg-name="27 TWENTY SEVEN (7)"tvg-id="27 TWENTY SEVEN (7)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/512px-Twentyseven_logo.svg.png"group-title="Italy",27 TWENTY SEVEN
+plugin://plugin.video.vavooto/?name=27 TWENTY SEVEN
+#EXTINF:-1 tvg-name="LA 5 (7)"tvg-id="LA 5 (7)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/La5_Mediaset.svg/512px-La5_Mediaset.svg.png"group-title="Italy",LA 5
+plugin://plugin.video.vavooto/?name=LA 5
+#EXTINF:-1 tvg-name="CINE 34 MEDIASET (7)"tvg-id="CINE 34 MEDIASET (7)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/512px-Cine34_logo.svg.png"group-title="Italy",CINE 34 MEDIASET
+plugin://plugin.video.vavooto/?name=CINE 34 MEDIASET
+#EXTINF:-1 tvg-name="FOCUS (7)"tvg-id="FOCUS (7)"tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/1/11/Focus_Logo.svg/512px-Focus_Logo.svg.png"group-title="Italy",FOCUS
+plugin://plugin.video.vavooto/?name=FOCUS
+#EXTINF:-1 tvg-name="TOP CRIME (7)"tvg-id="TOP CRIME (7)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Top_Crime_-_Logo_2013.svg/512px-Top_Crime_-_Logo_2013.svg.png"group-title="Italy",TOP CRIME
+plugin://plugin.video.vavooto/?name=TOP CRIME
+#EXTINF:-1 tvg-name="TOP CRIME (7)"tvg-id="TOP CRIME (7)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/512px-Logo_Italia2.svg.png"group-title="Italy",MEDIASET 2
+plugin://plugin.video.vavooto/?name=MEDIASET 2
+#EXTINF:-1 tvg-name="TG COM 24 (7)"tvg-id="TG COM 24 (7)"tvg-logo="https://i.imgur.com/fPmvbGH.png"group-title="Italy",TG COM 24
+plugin://plugin.video.vavooto/?name=TG COM 24
+#EXTINF:-1 tvg-name="RAI 4 (7)"tvg-id="RAI 4 (7)"tvg-logo="https://i.imgur.com/VzDPCFa.png"group-title="Italy",RAI 4
+plugin://plugin.video.vavooto/?name=RAI 4
+#EXTINF:-1 tvg-name="RAI 5 (7)"tvg-id="RAI 5 (7)"tvg-logo="https://i.imgur.com/2aC2rI2.png"group-title="Italy",RAI 5
+plugin://plugin.video.vavooto/?name=RAI 5
+#EXTINF:-1 tvg-name="RAI MOVIE (7)"tvg-id="RAI MOVIE (7)"tvg-logo="https://i.imgur.com/V4Srx5l.png"group-title="Italy",RAI MOVIE
+plugin://plugin.video.vavooto/?name=RAI MOVIE
+#EXTINF:-1 tvg-name="RAI PREMIUM (7)"tvg-id="RAI PREMIUM (7)"tvg-logo="https://i.imgur.com/ErP83IP.png"group-title="Italy",RAI PREMIUM
+plugin://plugin.video.vavooto/?name=RAI PREMIUM
+#EXTINF:-1 tvg-name="RAI GULP (7)"tvg-id="RAI GULP (7)"tvg-logo="https://i.imgur.com/irAhPJM.png"group-title="Italy",RAI GULP
+plugin://plugin.video.vavooto/?name=RAI GULP
+#EXTINF:-1 tvg-name="RAI YOYO (7)"tvg-id="RAI YOYO (7)"tvg-logo="https://i.imgur.com/IzLFs8F.png"group-title="Italy",RAI YOYO
+plugin://plugin.video.vavooto/?name=RAI YOYO
+#EXTINF:-1 tvg-name="RAI NEWS 24 (7)"tvg-id="RAINEWS24.it"tvg-logo="https://i.imgur.com/n2u57y3.png"group-title="Italy",RAI NEWS 24
+plugin://plugin.video.vavooto/?name=RAI NEWS 24
+#EXTINF:-1 tvg-name="RAI STORIA (7)"tvg-id="RAISTORIA.it"tvg-logo="https://i.imgur.com/wxsPIvZ.png"group-title="Italy",RAI STORIA
+plugin://plugin.video.vavooto/?name=RAI STORIA
+#EXTINF:-1 tvg-name="RAI SPORT (7)"tvg-id="RAI SPORT (7)"tvg-logo="https://i.imgur.com/b7md85o.png"group-title="Italy",RAI SPORT
+plugin://plugin.video.vavooto/?name=RAI SPORT
+#EXTINF:-1 tvg-name="RAI SCUOLA (7)"tvg-id="RAISCUOLA.it"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png"group-title="Italy",RAI SCUOLA
+plugin://plugin.video.vavooto/?name=RAI SCUOLA
+#EXTINF:-1 tvg-name="RAI ITALIA (7)"tvg-id="RAI ITALIA (7)"tvg-logo="https://i.imgur.com/1nN4rEP.png"group-title="Italy",RAI ITALIA
+plugin://plugin.video.vavooto/?name=RAI ITALIA
