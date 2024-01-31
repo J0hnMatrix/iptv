@@ -65,6 +65,9 @@ plugin://plugin.video.vavooto/?name=JUSTE POUR RIRE
 #EXTINF:-1 tvg-name="LA CHAINE METEO" group-title="France" tvg-id="LaChaineMeteo.fr" tvg-logo="https://i.imgur.com/dFHAmkT.png",LA CHAINE METEO
 plugin://plugin.video.vavooto/?name=LA CHAINE METEO
 
+#EXTINF:-1 tvg-name="AUTOMOTO" group-title="France" tvg-id="ABMoteurs.fr" tvg-logo="https://i.imgur.com/i3iM18j.png",AUTOMOTO
+plugin://plugin.video.vavooto/?name=AUTOMOTO
+
 #EXTINF:-1 tvg-name="MOTORVISION TV" group-title="France" tvg-id="MotorVisionTV.fr" tvg-logo="https://i.imgur.com/v4kj8pI.png",MOTORVISION TV
 plugin://plugin.video.vavooto/?name=MOTORVISION TV
 
@@ -251,6 +254,12 @@ plugin://plugin.video.vavooto/?name=FASHION TV
 plugin://plugin.video.vavooto/?name=MYZEN TV
 #EXTINF:-1 tvg-name="MUSEUM"tvg-id="MUSEUM"tvg-logo="https://i.imgur.com/WbjURLo.png"group-title="France",MUSEUM
 plugin://plugin.video.vavooto/?name=MUSEUM
+
+#EXTINF:-1 tvg-name="GONG (6)" tvg-id="Gong.fr"tvg-logo="https://i.imgur.com/WbjURLo.png" group-title="France",GONG
+plugin://plugin.video.vavooto/?name=GONG
+#EXTINF:-1 tvg-name="GONG MAX (6)" tvg-id="GongMax.fr"tvg-logo="https://i.imgur.com/WbjURLo.png" group-title="France" tvg-logo="https://vavoo.to/live2/logo/3404801267.png",GONG MAX
+plugin://plugin.video.vavooto/?name=GONG MAX
+
 #EXTINF:-1 tvg-name="PIWI+ FHD (7)" group-title="France" tvg-id="PIWI.fr"tvg-logo="https://i.imgur.com/Ahckjj2.png",PIWI
 plugin://plugin.video.vavooto/?name=PIWI
 #EXTINF:-1 tvg-name="NICKELODEON JUNIOR"tvg-id="NICKELODEON JUNIOR"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/512px-Nickelodeon_Junior.png"group-title="France",NICKELODEON JUNIOR
