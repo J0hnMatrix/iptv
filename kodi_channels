@@ -48,6 +48,9 @@ plugin://plugin.video.vavooto/?name=RMC DECOUVERTE
 #EXTINF:-1 tvg-name="CHERIE 25"tvg-id="Cherie25.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/512px-Logo_Ch%C3%A9rie_25.svg.png"group-title="France",CHERIE 25
 plugin://plugin.video.vavooto/?name=CHERIE 25
 
+#EXTINF:-1 tvg-name="ALTICE STUDIO" tvg-id="AlticeStudio.fr"tvg-logo="https://i.imgur.com/3R7ZNvm.png" group-title="France",ALTICE STUDIO
+plugin://plugin.video.vavooto/?name=ALTICE STUDIO
+
 #EXTINF:-1 tvg-name="RTS 1" group-title="France" tvg-id="RTSUn.ch" tvg-logo="https://i.imgur.com/OP5lHv9.png",RTS 1
 plugin://plugin.video.vavooto/?name=RTS 1
 #EXTINF:-1 tvg-name="RTS 2" group-title="France" tvg-id="RTSDeux.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/512px-RTS_2_logo_2019.svg.png",RTS 2
@@ -136,6 +139,8 @@ plugin://plugin.video.vavooto/?name=TEVA
 plugin://plugin.video.vavooto/?name=RTL 9
 #EXTINF:-1 tvg-name="TV BREIZH"tvg-id="TvBreizh.fr"tvg-logo="https://i.imgur.com/hAZlVHF.png"group-title="France",TV BREIZH
 plugin://plugin.video.vavooto/?name=TV BREIZH
+#EXTINF:-1 tvg-name="RT FRANCE (7)" group-title="France" tvg-id="RTFrance.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png",RT FRANCE
+plugin://plugin.video.vavooto/?name=RT FRANCE
 #EXTINF:-1 tvg-name="TV5MONDE FRANCE BELGIQUE SUISSE MONACO"tvg-id="TV5MONDE FRANCE BELGIQUE SUISSE MONACO"tvg-logo="https://i.imgur.com/WmRbudc.png"group-title="France",TV5MONDE FRANCE BELGIQUE SUISSE MONACO
 plugin://plugin.video.vavooto/?name=TV5MONDE FRANCE BELGIQUE SUISSE MONACO
 #EXTINF:-1 tvg-name="TV5MONDE FRANCE BELGIQUE SUISSE MONACO"tvg-id="TV5MONDE FRANCE BELGIQUE SUISSE MONACO"tvg-logo="https://i.imgur.com/WmRbudc.png"group-title="France",TV5MONDE FRANCE BELGIQUE SUISSE MONACO
@@ -236,7 +241,7 @@ plugin://plugin.video.vavooto/?name=HISTOIRE TV
 plugin://plugin.video.vavooto/?name=TOUTE HISTOIRE
 #EXTINF:-1 tvg-name="KTO"tvg-id="KTO"tvg-logo="https://i.imgur.com/EY6TsdV.png"group-title="France",KTO
 plugin://plugin.video.vavooto/?name=KTO
-#EXTINF:-1 tvg-name="ANIMAUX"tvg-id="ANIMAUX"tvg-logo="https://i.imgur.com/9XTpmJR.png"group-title="France",ANIMAUX
+#EXTINF:-1 tvg-name="ANIMAUX"tvg-id="Animaux.fr"tvg-logo="https://i.imgur.com/9XTpmJR.png"group-title="France",ANIMAUX
 plugin://plugin.video.vavooto/?name=ANIMAUX
 #EXTINF:-1 tvg-name="SCIENCE & VIE TV"tvg-id="SCIENCE & VIE TV"tvg-logo="https://i.imgur.com/9ELsSMI.png"group-title="France",SCIENCE & VIE TV
 plugin://plugin.video.vavooto/?name=SCIENCE & VIE TV
@@ -246,6 +251,8 @@ plugin://plugin.video.vavooto/?name=FASHION TV
 plugin://plugin.video.vavooto/?name=MYZEN TV
 #EXTINF:-1 tvg-name="MUSEUM"tvg-id="MUSEUM"tvg-logo="https://i.imgur.com/WbjURLo.png"group-title="France",MUSEUM
 plugin://plugin.video.vavooto/?name=MUSEUM
+#EXTINF:-1 tvg-name="PIWI+ FHD (7)" group-title="France" tvg-id="PIWI.fr"tvg-logo="https://i.imgur.com/Ahckjj2.png",PIWI
+plugin://plugin.video.vavooto/?name=PIWI
 #EXTINF:-1 tvg-name="NICKELODEON JUNIOR"tvg-id="NICKELODEON JUNIOR"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/512px-Nickelodeon_Junior.png"group-title="France",NICKELODEON JUNIOR
 plugin://plugin.video.vavooto/?name=NICKELODEON JUNIOR
 #EXTINF:-1 tvg-name="BOOMERANG"tvg-id="BOOMERANG"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png"group-title="France",BOOMERANG
